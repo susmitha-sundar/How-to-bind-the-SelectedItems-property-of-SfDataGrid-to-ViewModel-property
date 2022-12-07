@@ -1,0 +1,1 @@
+# How-to-bind-the-SelectedItems-property-of-SfDataGrid-to-ViewModel-property
